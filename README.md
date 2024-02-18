@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheKostyak
 - 👀 I’m interested in html/css/js
-- 🌱 I’m currently learning JavaScript and CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
